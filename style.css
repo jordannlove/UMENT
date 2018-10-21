@@ -1,0 +1,54 @@
+body
+{
+  background-color: rgba(14,142,206,0.12); ;
+  font-size: 30px ;
+}
+table
+{
+  background-color: DarkSlateBlue ;
+  font-size: 30px ;
+
+  border-bottom: 2px solid black;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top: 2px solid black;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+
+  padding: 5px ;
+}
+td
+{
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+.websitename
+{
+  color: crimson ;
+  font-style: bold ;
+  font-family: monospace;
+  border-top-right-radius: 15px;
+}
+.topleft
+{
+  border-top-left-radius: 15px;
+}
+.headText
+{
+  /*
+  color: DimGray;
+  font-family: monospace;
+  */
+
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+}
